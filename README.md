@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Setup Steps
 
-Things you may want to cover:
+1. Once cloned, run the following in terminal
 
-* Ruby version
+    ```ruby
+    bundle install
+    rails s
+    ```
+2. Navigate to http://localhost:3000
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Description
+Provides FizzBuzz-ness of numbers between 1-100.
